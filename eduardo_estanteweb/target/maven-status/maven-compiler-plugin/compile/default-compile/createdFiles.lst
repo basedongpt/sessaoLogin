@@ -1,0 +1,10 @@
+br\com\estanteweb\PaginaController.class
+br\com\estanteweb\LivroRepository.class
+br\com\estanteweb\TesteController.class
+br\com\estanteweb\LivroController.class
+br\com\estanteweb\EstantewebApplication.class
+br\com\estanteweb\Sugestao.class
+br\com\estanteweb\LivroController$LivroNaoEncontradoException.class
+br\com\estanteweb\SugestaoController.class
+br\com\estanteweb\SugestaoRepository.class
+br\com\estanteweb\Livro.class
